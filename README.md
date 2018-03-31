@@ -1,3 +1,11 @@
+# How to run
+```sh
+$ git clone https://github.com/gvnkd/doors-sim.git
+$ cd doors-sim
+$ nix-shell
+$ cabal run
+```
+
 # Results
 ```sh
 $ cabal run
